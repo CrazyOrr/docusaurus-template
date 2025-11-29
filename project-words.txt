@@ -1,5 +1,4 @@
 Infima
 typecheck
-stylelint
 clsx
 crazyorr
